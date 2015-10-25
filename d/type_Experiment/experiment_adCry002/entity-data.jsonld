@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Running the sample 1",
+  "rdfs:comment": "Glycine and water \r\nA crystal was chosen by placing the sample that was in a petri dish under a microscope and selecting a crystal which was niether too bulky or too thin and most importantly a single crystal. Once the crystal had been chosen it was placed on top of the needle and placed in the single crystal diffractometer. The size of the crystal was obtained in three dimensions (x,y,z)0.204mm, 0.152mm and 0.265. The time in between each diffraction image was changed from 8 seconds to 6 seconds as the from the 12 images had shown that the spots were intense.\r\n\r\nGlycine and NaOH \r\nUploaded is the information about that particular crystal selected for the SCXRD included length and the apparearnce of the crystal. From the first run, the images displaying the spots, overall were quite poor there were a few images of instense spots however the spots had array of spots which had spots very close together which demonstarted that there must of been a crystal on top the crystal, skewing the results.\r\n",
+  "chemPers:ProjectField": "type_Project/project_AdvCrystallography",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry002",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

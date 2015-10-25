@@ -1,0 +1,16 @@
+{
+  "@id": "./",
+  "rdfs:label": "MNR41",
+  "rdfs:comment": "",
+  "chemPers:MaterialHazards": "Unknown, treat as harmful",
+  "annal:type_id": "type_Material",
+  "chemPers:MaterialType": "Product",
+  "chemPers:RiskRating": "HU, SI",
+  "annal:id": "00000006",
+  "chemPers:RiskClass": "2",
+  "@type": [
+    "chemPers:Material",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

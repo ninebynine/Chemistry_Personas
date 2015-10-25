@@ -1,0 +1,29 @@
+{
+  "rdfs:label": "Alejandra's notebook",
+  "rdfs:comment": "",
+  "chemPers:NotebookKeyword_repeat": [
+    {
+      "chemPers:NotebookKeyword": "Environment"
+    },
+    {
+      "chemPers:NotebookKeyword": "Glass"
+    },
+    {
+      "chemPers:NotebookKeyword": "Waste materials"
+    },
+    {
+      "chemPers:NotebookKeyword": "Leaching"
+    }
+  ],
+  "chemPers:ProjectRef": "type_Project/project_EnvProperties",
+  "annal:type_id": "type_Notebook",
+  "chemPers:PersonRef": "type_Person/Person0002",
+  "chemPers:OrganisationRef": "type_Organisation/org_MountainUniversity",
+  "annal:id": "notebook_Alejandra",
+  "@id": "./",
+  "@type": [
+    "chemPers:Notebook",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

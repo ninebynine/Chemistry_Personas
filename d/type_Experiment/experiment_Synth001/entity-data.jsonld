@@ -1,0 +1,86 @@
+{
+  "rdfs:comment": "Procedure\r\n\r\nTo a solution of KAB23-2 (0.10 g, 0.32 mmol) in dry acetonitrile (10 mL, Sigma sure/seal) and 3 \u00c5 molecular sieves (2 g, dried in microwave) under argon, was added was added acetyl chloride (0.02 mL, 0.32 mmol) and 2,6-lutidine (0.04 mL, 0.32 mmol, stored over 3 \u00c5 molecular sieves). Yb(OTf)3 (0.01 g, 0.02 mmol, 0.05 equiv) was added and the reaction was stirred at ambient temperature (~15 \u00b0C) for 38 hours.\r\n\r\nThe mixture was filtered to remove the molecular sieves and washed with EtOAc (5 mL). The filtrate was washed with saturated sodium bicarbonate solution (10 mL). The aqueous layer was extracted with ethyl acetate (3 \u00d7 15 mL). The organic fractions were combined, dried over MgSO4, filtered and concentrated under reduced pressure to yield a yellow oil that partially crystallised on standing (0.111 g). \r\n\r\nColumn - 50-100% EtOAc/Hex\r\n\r\nFrac 3-20 0.038 g - 5:1 mixture of 4-Nitrobenzaldehyde and starting material.\r\nFrac 38-60 0.37 g - product with slight impurities. 0.104 mmol, 34%\r\n\r\nhydrolysis of starting material back to 4-Nitrobenzaldehyde, reaction not dry enough. Must dry glassware longer and use drier solvent.\r\n\r\nIn an attempt to develop an LC assay, calibration curves of the peak area of the LCMS traces were prerared.\r\n\r\nSerial dilutions of SM and Product was carried out to get LCMS samples of known concentrations at 50 ug/mL\r\n\r\n<table style=\"width:80%\">\r\n  <tr>\r\n    <th style=\"text-align: left;\">.</th>\r\n    <th style=\"text-align: left;\">.</th> \r\n    <th style=\"text-align: left;\">mL</th>\r\n    <th style=\"text-align: left;\">mw</th>\r\n    <th style=\"text-align: left;\">g</th>\r\n    <th style=\"text-align: left;\">mmol</th>\r\n    <th style=\"text-align: left;\">pmol</th>\r\n    <th style=\"text-align: left;\">in x ml</th>\r\n    <th style=\"text-align: left;\">conc (g/mL)</th>\r\n    <th style=\"text-align: left;\">conc (ug/mL)</th>\r\n    <th style=\"text-align: left;\">conc (mmol/mL)</th>\r\n  </tr>\r\n  <tr>\r\n    <td>Stock 1</td>\r\n    <td>KAB23</td> \r\n    <td></td>\r\n    <td>314.340</td>\r\n    <td>0.012</td>\r\n    <td>0.037</td>\r\n    <td>37220.844</td>\r\n    <td>1.700</td>\r\n    <td>0.007</td>\r\n    <td>6.882</td>\r\n    <td>21.895</td>\r\n  </tr>\r\n<tr>\r\n    <td></td>\r\n    <td>KAB26</td> \r\n    <td></td>\r\n    <td>356.370</td>\r\n    <td>0.010</td>\r\n    <td>0.028</td>\r\n    <td>27780.116</td>\r\n    <td>1.440</td>\r\n    <td>0.007</td>\r\n    <td>6.875</td>\r\n    <td>19.292</td>\r\n  </tr>\r\n</table>\r\n\r\nTake 0.02 mL and dilute with 1mL\r\n\r\n<table style=\"width:80%\">\r\n  <tr>\r\n    <th style=\"text-align: left;\">.</th>\r\n    <th style=\"text-align: left;\">.</th> \r\n    <th style=\"text-align: left;\">mL</th>\r\n    <th style=\"text-align: left;\">mw</th>\r\n    <th style=\"text-align: left;\">g</th>\r\n    <th style=\"text-align: left;\">mmol</th>\r\n    <th style=\"text-align: left;\">pmol</th>\r\n    <th style=\"text-align: left;\">in x ml</th>\r\n    <th style=\"text-align: left;\">conc (g/mL)</th>\r\n    <th style=\"text-align: left;\">conc (ug/mL)</th>\r\n    <th style=\"text-align: left;\">conc (mmol/mL)</th>\r\n  </tr>\r\n  <tr>\r\n    <td>Stock 2</td>\r\n    <td>KAB23</td> \r\n    <td>0.020</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>437.892</td>\r\n    <td>1.020</td>\r\n    <td>0.000</td>\r\n    <td>0.135</td>\r\n    <td>0.429</td>\r\n  </tr>\r\n<tr>\r\n    <td></td>\r\n    <td>KAB26</td> \r\n    <td>0.020</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>385.835</td>\r\n    <td>1.020</td>\r\n    <td>0.000</td>\r\n    <td>0.135</td>\r\n    <td>0.378</td>\r\n  </tr>\r\n</table>\r\n\r\nTake 0.185mL and dilute with 0.315mL\r\n\r\n<table style=\"width:80%\">\r\n  <tr>\r\n    <th style=\"text-align: left;\">.</th>\r\n    <th style=\"text-align: left;\">.</th> \r\n    <th style=\"text-align: left;\">mL</th>\r\n    <th style=\"text-align: left;\">mw</th>\r\n    <th style=\"text-align: left;\">g</th>\r\n    <th style=\"text-align: left;\">mmol</th>\r\n    <th style=\"text-align: left;\">pmol</th>\r\n    <th style=\"text-align: left;\">in x ml</th>\r\n    <th style=\"text-align: left;\">conc (g/mL)</th>\r\n    <th style=\"text-align: left;\">conc (ug/mL)</th>\r\n    <th style=\"text-align: left;\">conc (mmol/mL)</th>\r\n  </tr>\r\n  <tr>\r\n    <td>LCMS Sample</td>\r\n    <td>KAB23</td> \r\n    <td>0.185</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>79.422</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.050</td>\r\n    <td>0.159</td>\r\n  </tr>\r\n<tr>\r\n    <td></td>\r\n    <td>KAB26</td> \r\n    <td>0.185</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>69.980</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.050</td>\r\n    <td>0.140</td>\r\n  </tr>\r\n</table>\r\n\r\nFurther dilutions were carried out to give a variety of known concentration samples less than 50 ug/mL\r\n\r\nDilutions - Making up to 0.5mL:\r\n\r\n<table style=\"width:80%\">\r\n  <tr>\r\n    <th style=\"text-align: left;\">.</th>\r\n    <th style=\"text-align: left;\">.</th> \r\n    <th style=\"text-align: left;\">mL</th>\r\n    <th style=\"text-align: left;\">mw</th>\r\n    <th style=\"text-align: left;\">g</th>\r\n    <th style=\"text-align: left;\">mmol</th>\r\n    <th style=\"text-align: left;\">pmol</th>\r\n    <th style=\"text-align: left;\">in x ml</th>\r\n    <th style=\"text-align: left;\">conc (g/mL)</th>\r\n    <th style=\"text-align: left;\">conc (ug/mL)</th>\r\n    <th style=\"text-align: left;\">conc (mmol/mL)</th>\r\n  </tr>\r\n  <tr>\r\n    <td>0.89</td>\r\n    <td>KAB23-89%</td> \r\n    <td>0.165</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>70.685</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.016</td>\r\n    <td>0.141</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.89</td>\r\n    <td>KAB23-89%</td> \r\n    <td>0.165</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>59.566</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.014</td>\r\n    <td>0.119</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.50</td>\r\n    <td>KAB23-50%</td> \r\n    <td>0.093</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>39.711</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.009</td>\r\n    <td>0.079</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.25</td>\r\n    <td>KAB23-25%</td> \r\n    <td>0.046</td>\r\n    <td>314.340</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>19.855</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.005</td>\r\n    <td>0.040</td>\r\n  </tr>\r\n<tr>\r\n    <td></td>\r\n    <td></td> \r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n</tr>\r\n<tr>\r\n    <td>0.75</td>\r\n    <td>KAB26-75%</td> \r\n    <td>0.139</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>52.485</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.014</td>\r\n    <td>0.105</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.50</td>\r\n    <td>KAB26-50%</td> \r\n    <td>0.093</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>34.990</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.009</td>\r\n    <td>0.070</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.25</td>\r\n    <td>KAB26-25%</td> \r\n    <td>0.046</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>17.495</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.005</td>\r\n    <td>0.035</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.11</td>\r\n    <td>KAB26-11%</td> \r\n    <td>0.020</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>7.698</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.002</td>\r\n    <td>0.015</td>\r\n  </tr>\r\n<tr>\r\n    <td>0.05</td>\r\n    <td>KAB26-5%</td> \r\n    <td>0.009</td>\r\n    <td>356.370</td>\r\n    <td>0.000</td>\r\n    <td>0.000</td>\r\n    <td>3.499</td>\r\n    <td>0.500</td>\r\n    <td>0.000</td>\r\n    <td>0.001</td>\r\n    <td>0.007</td>\r\n  </tr>\r\n</table>\r\n\r\nData to be plotted\r\n\r\n<table style=\"width:80%\">\r\n  <tr>\r\n    <td>Product</td>\r\n    <td></td> \r\n  </tr>\r\n<tr>\r\n    <td>10 uL injections</td>\r\n    <td></td> \r\n  </tr>\r\n<tr>\r\n    <td>Moles (pmol)</td>\r\n    <td>Area</td> \r\n  </tr>\r\n<tr>\r\n    <td>69.980</td>\r\n    <td>2732472</td> \r\n  </tr>\r\n<tr>\r\n    <td>52.485</td>\r\n    <td>1944159</td> \r\n  </tr>\r\n<tr>\r\n    <td>34.990</td>\r\n    <td>1398340</td> \r\n  </tr>\r\n<tr>\r\n    <td>17.495</td>\r\n    <td>695363</td> \r\n  </tr>\r\n<tr>\r\n    <td>7.698</td>\r\n    <td>424468</td> \r\n  </tr>\r\n<tr>\r\n    <td>3.499</td>\r\n    <td>425840</td> \r\n  </tr>\r\n<tr>\r\n    <td>0.000</td>\r\n    <td>0</td> \r\n  </tr>\r\n<tr>\r\n    <td></td>\r\n    <td></td> \r\n  </tr>\r\n<tr>\r\n    <td>SM</td>\r\n    <td></td> \r\n  </tr>\r\n<tr>\r\n    <td>10 uL injections</td>\r\n    <td></td> \r\n  </tr>\r\n<tr>\r\n    <td>Moles (pmol)</td>\r\n    <td>Area</td> \r\n  </tr>\r\n<tr>\r\n    <td>70.7</td>\r\n    <td>56737828</td> \r\n  </tr>\r\n<tr>\r\n    <td>59.6</td>\r\n    <td>40748661</td> \r\n  </tr>\r\n<tr>\r\n    <td>39.7</td>\r\n    <td>22076591</td> \r\n  </tr>\r\n<tr>\r\n    <td>19.9</td>\r\n    <td>18611987</td> \r\n  </tr>\r\n<tr>\r\n    <td>0.0</td>\r\n    <td>0</td> \r\n  </tr>\r\n<tr>\r\n</table>\r\n\r\nThe peak of the product appears to be more sensitive to concentration change and looks to be more reliable to monitor. There is still good separation between SM and product so when following a reaction it should be possible to to consumption of starting material and formation of product. LC traces of the by-products has yet to be carried out. ",
+  "chemPers:ExperimentAuthor": "type_Person/Person0005",
+  "chemPers:FieldDataPlotLabel": "Plotting starting material as Moles vs Peak area (KAB23-2 LCMS)",
+  "chemPers:FieldDataPlot": {
+    "upload_name": "field_Data_Plot",
+    "uploaded_size": 44271,
+    "resource_name": "field_Data_Plot.txt",
+    "uploaded_file": "kab23-2_LCMS.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:PlanRef": "type_Plan/plan_Synth_01",
+  "chemPers:FieldExpDate": "4/07/2012",
+  "chemPers:FieldDataPlot7": {
+    "upload_name": "field_Data_Plot7",
+    "uploaded_size": 59335,
+    "resource_name": "field_Data_Plot7.txt",
+    "uploaded_file": "plot7.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot6": {
+    "upload_name": "field_Data_Plot6",
+    "uploaded_size": 63916,
+    "resource_name": "field_Data_Plot6.txt",
+    "uploaded_file": "plot6.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot5": {
+    "upload_name": "field_Data_Plot5",
+    "uploaded_size": 230085,
+    "resource_name": "field_Data_Plot5.txt",
+    "uploaded_file": "plot5.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot4": {
+    "upload_name": "field_Data_Plot4",
+    "uploaded_size": 63043,
+    "resource_name": "field_Data_Plot4.txt",
+    "uploaded_file": "plot4.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot3": {
+    "upload_name": "field_Data_Plot3",
+    "uploaded_size": 63488,
+    "resource_name": "field_Data_Plot3.txt",
+    "uploaded_file": "plot3.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:PlanInfoRef": "type_Plan/plan_Synth_01",
+  "chemPers:FieldDataPlot__2": "",
+  "chemPers:FieldDataPlot9": "",
+  "chemPers:FieldDataPlot8": {
+    "upload_name": "field_Data_Plot8",
+    "uploaded_size": 186698,
+    "resource_name": "field_Data_Plot8.txt",
+    "uploaded_file": "plot8.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlotLabel2": "Plotting product material as Moles vs Peak area (KAB26-2 LCMS)",
+  "chemPers:FieldDataPlotLabel3": "mixture of 89% SM and 11% Prod ",
+  "chemPers:FieldDataPlotLabel6": "mixture of 25% SM and 75% Prod",
+  "chemPers:FieldDataPlotLabel7": "5% Prod ",
+  "chemPers:FieldDataPlotLabel4": "mixture of 75% SM and 25% Prod",
+  "chemPers:FieldDataPlotLabel5": "mixture of 50% SM and 50% Prod",
+  "chemPers:FieldDataPlotLabel8": "100% Prod",
+  "chemPers:FieldDataPlotLabel9": "",
+  "annal:type": "annal:EntityData",
+  "rdfs:label": "Synthesis of MNR41-1",
+  "annal:type_id": "type_Experiment",
+  "@id": "./",
+  "chemPers:FieldDataPlot2": {
+    "upload_name": "field_Data_Plot2",
+    "uploaded_size": 43260,
+    "resource_name": "field_Data_Plot2.txt",
+    "uploaded_file": "kab26-2_LCMS.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:ProjectField": "type_Project/project_DrugDiscovery",
+  "_repeat": [],
+  "chemPers:PlanNameRef": "type_Plan/plan_Synth_01",
+  "annal:id": "experiment_Synth001",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ]
+}

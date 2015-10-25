@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Plan",
+  "rdfs:comment": "Most experiments start with some kind of plan to describe the materials and equipment used in the experiment and the procedure to be used. The plan often includes a risk assessment to identify hazards in the experiment. The plan may also include references to background literature or previous experiment results to justify or explain the new experiment. The same plan may be used to repeat the same experiment a number of times and may be used by many people. We might expect that the plan contains much of the 'active' metadata that changes between experiment runs - for example, changes in the quantities of the materials or tweaks in the procedure or equipment used in response to poor yield from a previous experiment. A plan will potentially have a creator, a user, contributors, and an approver, but there may also be a provenance trail that can trace the evolution of the experiment design.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Plan",
+  "annal:type_list": "_list/type_Plan",
+  "annal:id": "type_Plan",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/type_Plan"
+}

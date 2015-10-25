@@ -1,0 +1,16 @@
+{
+  "@id": "./",
+  "rdfs:label": "Acetyl chloride",
+  "rdfs:comment": "",
+  "chemPers:MaterialHazards": "Highly flammable, corrosive, reacts violently with water.",
+  "annal:type_id": "type_Material",
+  "chemPers:MaterialType": "Reagent",
+  "chemPers:RiskRating": "HU, SI",
+  "annal:id": "00000004",
+  "chemPers:RiskClass": "2",
+  "@type": [
+    "chemPers:Material",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

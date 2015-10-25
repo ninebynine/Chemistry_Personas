@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Heating mantle",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Equipment",
+  "annal:id": "equipment_HM",
+  "@id": "./",
+  "@type": [
+    "chemPers:Equipment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

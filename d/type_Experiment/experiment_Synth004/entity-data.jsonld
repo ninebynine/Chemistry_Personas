@@ -1,0 +1,70 @@
+{
+  "rdfs:label": "Synthesis of MNR41-4 - monitoring by lcms",
+  "rdfs:comment": "Synthesis of MNR40-4 - monitoring reaction progress by LCMS\r\n\r\n<table style=\"width:100%\">\r\n  <tr>\r\n    <th style=\"text-align: left;\">Compound</th>\r\n    <th style=\"text-align: left;\">CAS</th> \r\n    <th style=\"text-align: left;\">FW (g/mol)</th>\r\n    <th style=\"text-align: left;\">Density (g/mL)</th>\r\n    <th style=\"text-align: left;\">mmol</th>\r\n    <th style=\"text-align: left;\">Mass (g)</th>\r\n    <th style=\"text-align: left;\">Volume (mL)</th>\r\n    <th style=\"text-align: left;\">Concentration (mmol/mL)</th>\r\n    <th style=\"text-align: left;\">eq</th>\r\n  </tr>\r\n  <tr>\r\n    <td>MNR42-1</td>\r\n    <td>-</td> \r\n    <td>314.34</td>\r\n    <td></td>\r\n    <td>4.77</td>\r\n    <td>1.500</td>\r\n    <td></td>\r\n    <td></td>\r\n    <td>1.00</td>\r\n  </tr>\r\n<tr>\r\n    <td>acetyl chloride</td>\r\n    <td>75-36-5</td> \r\n    <td>78.49</td>\r\n    <td>1.10</td>\r\n    <td>4.77</td>\r\n    <td>0.375</td>\r\n    <td>0.34</td>\r\n    <td></td>\r\n    <td>1.00</td>\r\n  </tr>\r\n <tr>\r\n    <td>2,6-lutidine</td>\r\n    <td>108-48-5</td> \r\n    <td>107.15</td>\r\n    <td>0.93</td>\r\n    <td>4.77</td>\r\n    <td>0.511</td>\r\n    <td>0.55</td>\r\n    <td></td>\r\n    <td>1.00</td>\r\n  </tr>\r\n<tr>\r\n    <td>Yb(OTf)3</td>\r\n    <td>54761-04-5</td> \r\n    <td>620.25</td>\r\n    <td></td>\r\n    <td>0.05</td>\r\n    <td>0.030</td>\r\n    <td></td>\r\n    <td></td>\r\n    <td>0.01</td>\r\n  </tr>\r\n <tr>\r\n    <td>acetonitrile</td>\r\n    <td>75-05-8</td> \r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td>159</td>\r\n    <td>0.03</td>\r\n    <td></td>\r\n  </tr>\r\n<tr>\r\n    <td>MNR41</td>\r\n    <td>-</td> \r\n    <td>356.37</td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n    <td></td>\r\n  </tr>\r\n</table>\r\n\r\nProcedure\r\n\r\nTo a solution of MNR42-1 (1.5 g, 4.77 mmol) in dry acetonitrile (160 mL, HPLC stored over 3 \u00c5 molecular sieves for 24 hours) and 3 \u00c5 molecular sieves (30 g, dried in microwave) under argon at 0 C, was added was added acetyl chloride (0.34 mL, 4.77 mmol) and 2,6-lutidine (0.55 mL, 4.77 mmol, stored over 3 \u00c5 molecular sieves). Yb(OTf)3 (0.03 g, 0.05 mmol) was added and the reaction was stirred at ambient temperature (~15 \u00b0C).\r\n\r\nThe reaction was monitored by LCMS by taking samples every hour carrying out the following procedure.\r\n\r\n0.1 ml was removed from the reaction mixture using a disposable syringe and transferred to a vial. EtOAc (0.2 mL) and sodium hydrogen carbonate saturated solution (0.2 mL) was added and the vial capped and shaken. The layers were allowed to separate and the organic layer was carefully removed by pipette and transferred to another vial and concentrated to dryness under reduced pressure.\r\n\r\nAcetonitrile (1.8 mL) was added and the mixture shaken, 0.055 mL was transferred to a LCMS vial and acetonitrile 0.345 mL).\r\n\r\nSamples taken at\r\n\r\n830am - 0 hours (before catalyst was added)-slight signs of product!?\r\n930am - 1 hour (after adding catalyst)\r\n1030am - 2 hours\r\n1130am - 3 hours\r\n1230pm - 4 hours\r\n130pm - 5 hours\r\n230pm - 6 hours\r\n330pm - 7 hours\r\n430pm - 8 hours\r\n530pm - 9 hours\r\n630pm - 10 hours*\r\n730 pm - 11 hours\r\n830am - 24 hours\r\n930am - 25 hours\r\n\r\n*just before the 10 hour mark Diphenylmethane (0.3 mL, 1.79 mmol) was added as an internal standard as early LCMS results showed the need for an internal standard. It's not clear if this will work as a standard but it was late in the evening and it was thought best to add something and try and follow the reaction from this point.\r\n\r\nAfter 24 hours and seeing the results of the previous LCMS runs it looked like the reaction was not progressing an further than it had after 1 hour. It was decided to take a sample for mini work-up and 1H NMR.\r\n\r\nAfter 26 hours, 1 mL was taken from the reaction and was diluted with EtOAc (4 mL) and washed with sodium hydrogen carbonate saturated solution (2 mL), extracted and reextracted with EtOAc (5 mL x 3). Dried, filtered and concentrated to give the crude as a yellow oil, 0.016 g.\r\n\r\n1,1,2,2-tetrachloroethane (6 uL, 0.056 mmol) was added to the NMR sample of the crude.\r\n\r\n1H NMR showed a ratio of 0.38:0.12:1 (SM:Prod:Standard)\r\n0.022 mmol:0.007 mmol - SM-Prod\r\n6.8:2.4 mg = total 9.2 mg of the crude recovered.\r\n\r\nUnclear why the reaction was not progressing and it's unusual still to see starting material in the crude NMR as this has not been seen before. It was good to see only slight traces of aldehyde therefore minimal hydrolysis has taken place. Decided to add another equivalent of AcCl to the reaction in an attempt to drive it towards completion.\r\n\r\nAfter 29 hours - Acetyl chloride (0.4 mL, 5.63 mmol, 1.2eq) was added to the mixture at ambient temperature and stirring was continued\r\n",
+  "chemPers:FieldDataPlotLabel4": "630pm - 10 hours*",
+  "annal:type_id": "type_Experiment",
+  "chemPers:ExperimentAuthor": "type_Person/Person0005",
+  "chemPers:FieldDataPlotLabel": "830am - 0 hours (before catalyst was added)",
+  "chemPers:FieldDataPlot": {
+    "upload_name": "field_Data_Plot",
+    "uploaded_size": 65115,
+    "resource_name": "field_Data_Plot.txt",
+    "uploaded_file": "plot10-1.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldExpDate": "17/07/2012",
+  "@id": "./",
+  "chemPers:PlanInfoRef": "type_Plan/plan_Synth_01",
+  "chemPers:FieldDataPlot7": {
+    "upload_name": "field_Data_Plot7",
+    "resource_name": "field_Data_Plot7.txt",
+    "uploaded_size": 95034,
+    "uploaded_file": "plot10-7.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot6": {
+    "upload_name": "field_Data_Plot6",
+    "resource_name": "field_Data_Plot6.txt",
+    "uploaded_size": 89916,
+    "uploaded_file": "plot10-6.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot5": {
+    "upload_name": "field_Data_Plot5",
+    "uploaded_size": 66936,
+    "resource_name": "field_Data_Plot5.txt",
+    "uploaded_file": "plot10-5.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot4": {
+    "upload_name": "field_Data_Plot4",
+    "uploaded_size": 37496,
+    "resource_name": "field_Data_Plot4.txt",
+    "uploaded_file": "plot10-3.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldDataPlot3": "",
+  "chemPers:FieldDataPlot2": {
+    "upload_name": "field_Data_Plot2",
+    "uploaded_size": 61247,
+    "resource_name": "field_Data_Plot2.txt",
+    "uploaded_file": "plot10-2.png",
+    "resource_type": "image/png"
+  },
+  "annal:id": "experiment_Synth004",
+  "chemPers:FieldDataPlot9": "",
+  "chemPers:FieldDataPlot8": "",
+  "chemPers:FieldDataPlotLabel2": "930am - 1 hour (after adding catalyst)",
+  "chemPers:FieldDataPlotLabel3": "530pm - 9 hours ",
+  "chemPers:FieldDataPlotLabel6": "26 hours",
+  "chemPers:FieldDataPlotLabel9": "",
+  "chemPers:FieldDataPlotLabel5": "730 pm - 11 hours",
+  "chemPers:FieldDataPlotLabel8": "",
+  "chemPers:ProjectField": "type_Project/project_DrugDiscovery",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "chemPers:FieldDataPlotLabel7": "26 hours zoom"
+}

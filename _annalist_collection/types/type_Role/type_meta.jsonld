@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Role",
+  "rdfs:comment": "There are a variety of roles appropriate to lab-based research and teaching. Our users may have one or more roles. These roles may change over time and the role the a user have may differ with different projects. ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Role",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Role",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

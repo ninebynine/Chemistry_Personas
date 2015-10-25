@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Photo",
+  "rdfs:comment": "Photos are becoming more commonly used in notebooks to show equipment set-ups,  the results of an analysis, or to record an interesting observation.  ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Photo",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Photo",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

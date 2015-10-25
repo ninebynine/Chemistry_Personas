@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Collaborator",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Role",
+  "annal:id": "role_Collaborator",
+  "@id": "./",
+  "@type": [
+    "chemPers:Role",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

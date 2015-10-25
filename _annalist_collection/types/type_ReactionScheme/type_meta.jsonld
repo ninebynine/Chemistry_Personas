@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Reaction Scheme",
+  "rdfs:comment": "A reaction scheme is used to describe the step by step sequence of reactions by which overall chemical change occurs. This describes the process of the reaction from the point of view of the changes to the materials from the starting materials to the products with the introduction or influence of other materials along the way. It represents the physical changes to the materials at a molecular level. The steps of the experiment do not necessarily directly map onto the changes described in the reaction scheme. The reaction scheme may be more or less descriptive of the physical changes. The reaction scheme is usually a representation of the aims of the experiment. The materials shown in the reaction scheme may include materials that are not part of the materials included in the experiment (as inputs or outputs) because they are intermediate materials that are not extractable or not retained. A reaction scheme is typically presented as a drawing, but can be represented in text form.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:ReactionScheme",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_ReactionScheme",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

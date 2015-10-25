@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Castle University",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Organisation",
+  "annal:id": "org_CastleUniversity",
+  "@id": "./",
+  "@type": [
+    "chemPers:Organisation",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

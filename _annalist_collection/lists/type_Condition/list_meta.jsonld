@@ -1,0 +1,30 @@
+{
+  "annal:display_type": "List",
+  "rdfs:label": "List of Conditions",
+  "rdfs:comment": "List of Condition",
+  "annal:id": "type_Condition",
+  "annal:default_type": "_type/type_Condition",
+  "annal:type_id": "_list",
+  "annal:list_entity_selector": "'chemPers:Condition' in [@type]",
+  "annal:record_type": "chemPers:Condition",
+  "annal:list_fields": [
+    {
+      "annal:field_placement": "small:0,3",
+      "annal:field_id": "_field/Entity_id"
+    },
+    {
+      "annal:field_placement": "small:3,3",
+      "annal:field_id": "_field/Entity_type"
+    },
+    {
+      "annal:field_placement": "small:6,6",
+      "annal:field_id": "_field/Entity_label"
+    }
+  ],
+  "annal:default_view": "_view/type_Condition",
+  "@id": "./",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:type": "annal:List"
+}

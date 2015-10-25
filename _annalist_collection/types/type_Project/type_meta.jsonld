@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Project",
+  "rdfs:comment": "Research is usually undertaken as part of a project. A project may be belong to multiple organisations and involve multiple people, although organisations and people may be related to many different projects. The project usually dictates when the research will take place and the direction it will take, although the research evolution and results may be responsible for spawning new projects or new connections between projects. ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Project",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Project",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

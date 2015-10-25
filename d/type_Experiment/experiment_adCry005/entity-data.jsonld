@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "X-Ray Powder Diffraction 1",
+  "rdfs:comment": "The glycine sample was placed onto the sample holder and then using a scalpel, the powder was organised into the box indicated on the sample holder. Using the glass strip, the sample was flattened and tightly packed onto the sample holder. The sample was then ready for analysis. \r\n\r\nThe instructions were followed until the collected data (for the glycine dissolved in water) resembled a glycine molecule. This was then compared to the glycine crystal found in literature via the Mercury software.\r\nUnit cell\r\na = 5.080\r\nb = 11.856\r\nc = 5.446\r\nalpha = 90\r\nbeta = 111.826\r\ngamma = 90\r\n\r\nBond length and angles were compared and came out very similar excluding the C=O bond which was a similar value to the C-0 bond.\r\n\r\nThe instructions were followed until the collected data (for the glycine dissolved in NaOH and water) resembled a glycine molecule. This was then compared to the glycine crystal found in literature via the Mercury software.\r\nUnit cell\r\na = 7.015\r\nb = 7.015\r\nc = 5.4764\r\nalpha = 90\r\nbeta = 90\r\ngamma = 120\r\n\r\nComparing these bond lengths to those of Mercury, they were very similar. \r\n\r\nComparing these lengths and angles compared to the glycine dissolved only in water, it is evident that the structures are different.\r\nThe errors in the structure have been attached by checking with the crystallography journals online.\r\n\r\n\r\n",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry005",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

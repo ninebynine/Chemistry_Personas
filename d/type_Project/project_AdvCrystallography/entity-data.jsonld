@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Advanced Crystallography Practical",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Project",
+  "annal:id": "project_AdvCrystallography",
+  "@id": "./",
+  "@type": [
+    "chemPers:Project",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Communication",
+  "rdfs:comment": "Communications can exist inside and outside of notebooks but typically are external, but links could exist to and from them. For example, a 'project status' message could be communicated in a variety of ways via publication, email, social media, in a meeting and so on. Such a communication item could refer to the results of a specific experiment or could be captured as a link within the notebook to inform a development in the process. A question could be communicated in the same way. This is included because this is an important element of research and teaching activities that can bring additional value to ELNs and DRNs. Collaboration is often included in ELNs as an element with communication often based on comments on entries in the notebook. ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Communication",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Communication",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

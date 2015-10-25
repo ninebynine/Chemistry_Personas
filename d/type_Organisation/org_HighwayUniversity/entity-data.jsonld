@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Highway University",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Organisation",
+  "annal:id": "org_HighwayUniversity",
+  "@id": "./",
+  "@type": [
+    "chemPers:Organisation",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

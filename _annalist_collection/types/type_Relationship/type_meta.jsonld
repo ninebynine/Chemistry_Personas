@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Relationship",
+  "rdfs:comment": "There are many relationships involved in research between projects, people, organisations, notebooks, experiments, plans, and analyses. These relationships need to be captured. What isn't clear is if these relationships will be captured automatically by the creation of the various type and entities, so this type is added here as a placeholder.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Relationship",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Relationship",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

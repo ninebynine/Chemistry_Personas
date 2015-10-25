@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Tropical Disease Drug Discovery",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Project",
+  "annal:id": "project_DrugDiscovery",
+  "@id": "./",
+  "@type": [
+    "chemPers:Project",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

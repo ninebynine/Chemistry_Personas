@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Hot Stage Microscopy 1:1",
+  "rdfs:comment": "The HSM experiment was set up, where one large crystal and a few smaller crystals were in view.\r\nTemperatures (between 50-250 \u00b0C) at which a change was observed:\r\n52\u00b0C - Largest crystal disappears\r\n56.4\u00b0C - Very small crystals appear on the whole surface in view\r\n76.9\u00b0C - White streaks form on the surface\r\n104\u00b0C - The surface darkens\r\n197.8\u00b0C - Some small crystals which were present at the start disappear\r\n207.2\u00b0C - All of the small crystals have disappeared\r\n202.2\u00b0C - A pattern appears\r\n234.9\u00b0C - The surface begins to darken\r\n248.7\u00b0C - Surface completely black\r\n\r\nThe data listed above was for the glycine in water experiment.\r\n\r\nHSM overview for glycine in NaOH (temperature range: 50-250\u00b0C):\r\n50\u00b0C - Crystals darken\r\n157\u00b0C - Crystals in view begin to melt\r\n183.9\u00b0C - Two larger crystals are seen to suddenly change shape\r\n190\u00b0C - All crystals previously in view have melted into liquid glycine\r\n198\u00b0C - Boiling liquid glycine pushes more crystals into view which begin to melt. These did not melt before because it can be due to uneven heating due to the liquid moving the crystals around.\r\n\r\n",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry003",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

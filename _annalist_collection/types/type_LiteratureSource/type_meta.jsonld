@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Literature Source",
+  "rdfs:comment": "A literature source could be a paper, a book, a notebook, an experiment, plan, or analysis, a repository, a website and so on. Ideally a literature source can be referenced by a URI - but it could be a link, a digital, or a physical object. ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:LiteratureSource",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_LiteratureSource",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Alejandra",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Person",
+  "chemPers:OrganisationRef": "type_Organisation/org_MountainUniversity",
+  "annal:id": "Person0002",
+  "@id": "./",
+  "@type": [
+    "chemPers:Person",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

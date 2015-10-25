@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Leo",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Person",
+  "chemPers:OrganisationRef": "type_Organisation/org_CastleUniversity",
+  "annal:id": "Person0011",
+  "@id": "./",
+  "@type": [
+    "chemPers:Person",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

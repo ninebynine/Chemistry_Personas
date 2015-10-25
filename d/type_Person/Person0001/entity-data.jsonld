@@ -1,0 +1,14 @@
+{
+  "rdfs:label": "Felix",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Person",
+  "annal:missing_field": "",
+  "chemPers:OrganisationRef": "type_Organisation/org_MountainUniversity",
+  "annal:id": "Person0001",
+  "@id": "./",
+  "@type": [
+    "chemPers:Person",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

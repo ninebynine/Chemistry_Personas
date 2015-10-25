@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Maximum temperature",
+  "rdfs:comment": "",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:ConditionTempMax",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Condition_Temperature_Max",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

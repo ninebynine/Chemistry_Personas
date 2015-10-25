@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "EnvProp1",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Plan",
+  "chemPers:AuthorField": "type_Person/Person0002",
+  "annal:id": "Plan0001",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

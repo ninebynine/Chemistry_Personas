@@ -1,0 +1,55 @@
+{
+  "annal:view_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "_field/Entity_id"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:field_id": "_field/Entity_type"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Entity_label"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Entity_comment"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,9",
+      "annal:field_id": "_field/vf_Person"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,9",
+      "annal:field_id": "_field/vf_Organisation"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,9",
+      "annal:field_id": "_field/vf_Project"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "",
+      "annal:field_id": "_field/field_notebook_keyword_repeat"
+    }
+  ],
+  "rdfs:label": "Notebook View",
+  "rdfs:comment": "Notebooks contain information about who authors them, which project and organisation they below to and resources associated with experiments including plans, experiments, analyses and various resources such as literature sources and data files.",
+  "annal:open_view": true,
+  "annal:type_id": "_view",
+  "annal:record_type": "chemPers:Notebook",
+  "annal:id": "view_Notebook",
+  "@id": "./",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:type": "annal:View"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Experiment",
+  "rdfs:comment": "An experiment is likely to include a description of the procedure followed, measurements that were taken, observations that were made, explanations and details of unexpected events or changes that were made to the intended plan. The experiment may include resources such as sketches, reaction schemes, photographs, videos, and external references such as background literature. In many cases an experiment will be associated with a plan, but for some types of research there may be no formal plan, and the process may be more ad-hoc, but based on previous research, with 'ideas' or objectives for a characterisation forming the basis of the procedure. Analysis and discussion of results may or may not be included within the experiment.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Experiment",
+  "annal:type_list": "_list/type_Experiment",
+  "annal:id": "type_Experiment",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/type_Experiment"
+}

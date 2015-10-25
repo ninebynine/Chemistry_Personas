@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "X-Ray Powder Diffraction Sample Preparation",
+  "rdfs:comment": "NOTE:  This machine produces ionizing radiation.  Please take note of and read the local safety rules displayed and ensure you are supervised when using the equipment.\r\nSAMPLE PREPARATION\r\nThe sample should be a fine powder with no large crystallites present.  Large crystals should be ground using a pestle and mortar to give even sized particles in a powder form.  If wet or in solvent, dry the sample as much as possible before grinding.\r\nThere are several options for preparing a sample, glass sample holders or an aluminium holder.\r\nThe glass sample holders are recommended - as with all glass items they will break so take care when using them.  There is a frosted rectangle covering approximately one third to one half of the glass plate which is indented on one side to give a small well for the sample to sit in (fawn coloured area as seen below).\r\n\r\n\r\nxrpd sample holder.png\r\n\r\nThe sample should be placed in the well ensuring the correct side of the holder is used (one side is completely smooth, this is NOT the side you want).  Carefully spread and flatten the powder using the edge of a glass slide to give an even covering.  Use the face of the slide to gently press the sample making it level with the top plane of the glass and suitably compressed (no loose powder).\r\n\r\n\r\nsample in holder.PNG\r\n\r\nOpen the door to the diffractometer and slide the sample into the space between the clips then close the door.\r\n\r\n\r\nXRPD sample location.PNG\r\n\r\nsample placed in XRPD.PNG\r\n\r\nBefore collecting data ensure the chiller unit (on the floor in front of the bench and computer) is switched on (you will hear it if it is) and turned off when the machine is not in use. \r\n\r\n\r\nxrpd buttons.jpg\r\n",
+  "annal:type_id": "type_Plan",
+  "chemPers:AuthorField": "type_Person/Person0008",
+  "annal:id": "plan_AdvCry_02",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Equipment",
+  "rdfs:comment": "Research makes use of equipment. For chemistry experiments we tend to think of equipment as being tools for conducting the process of the experiment such as spatulas, petri dishes, flasks, bunsen burners, and centrifuges; and instruments for analysis such as microscopes, spectrometers, and analysers such as Nuclear Magnetic Resonance. There are also other types of equipment for making basic measurements such as thermometers and balances; performing calculations, and for supporting analytical technics such as columns for chromatography. Equipment has descriptive metadata such as manufacturer, model numbers, composition (glass or plastic for example), date of purchase. Active metadata may exist for instruments in particular; for example: settings, configurations, and additional components.   ",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Equipment",
+  "annal:type_list": "_list/type_Equipment",
+  "annal:id": "type_Equipment",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/type_Equipment"
+}

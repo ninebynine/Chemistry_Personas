@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Repeat field 'Techniques used'",
+  "rdfs:comment": "Repeat field 'Techniques used'",
+  "annal:group_ref": "_group/field_Techniques_repeat",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Repeat field Techniques used)",
+  "annal:property_uri": "chemPers:TechniqueField_repeat",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "Remove Techniques used",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "Add Techniques used",
+  "annal:field_value_type": "annal:Field_group",
+  "annal:field_value_mode": "Value_direct",
+  "annal:field_render_type": "RepeatGroupRow",
+  "annal:id": "field_Techniques_repeat",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

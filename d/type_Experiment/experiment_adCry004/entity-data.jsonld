@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Hot Stage Microscopy 1:2",
+  "rdfs:comment": "Crystal information: crystals had a block like structure and varied in overall size. Some crystals were singular but some were grouped together. Some had very defined edges but on the most part they had rough edges. Some crystals were colourless, some were grey whilst others had a slight colour sheen to them.\r\n\r\nExperimental profile: The newly formed crystals were heated from 50\u00b0 to 250\u00b0 under a microscope and during this time the crystals were recorded and any changes were recorded.\r\n\r\nObservations/key points: The crystals started to melt at around 230\u00b0C. This could be seen as the area around the crystals started to turn yellow in colour and some of the crystals decreased in size. At around 244\u00b0C the whole screen went cloudy.\r\n\r\nCrystal information: crystals had a slate like structure and varied in overall size. Some crystals were singular but some were grouped together. Some had very defined edges but on the most part they had rough edges. The crystals were white in colour.\r\n\r\nExperimental profile: The newly formed crystals were heated from 50\u00b0 to 250\u00b0 under a microscope and during this time the crystals were recorded and any changes were recorded.\r\n\r\nObservations/key points: As the crystals were white in colour they were hard to see under the microscope and so the changes in structure were noticed on the edges of the crystal. There was a slight change at 186\u00b0C. Due to the nature of the crystals it was not visible whether any further changes occurred, however once removed the sample was black.\r\n",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry004",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "Dan",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Person",
+  "chemPers:OrganisationRef": "type_Organisation/org_SeasideUniversity",
+  "annal:id": "Person0009",
+  "@id": "./",
+  "@type": [
+    "chemPers:Person",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

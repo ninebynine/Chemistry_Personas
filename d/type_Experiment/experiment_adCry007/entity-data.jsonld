@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "IIR Analysis 1",
+  "rdfs:comment": "Uploaded to the page is the Overlayed infrared spectra of all the Glycine types (Starting material, alpha and gamma). The first general observation is that all spectrums are similar i.e. the troughs of intensity have similar values. Further analysis shows however some differences between the glycine polymorphs. For example, the peaks for the Gamma glycine are shifted slightly to the left compared to the alpha glycine (slightly weaker wavenumbers). The glycine starting material spectrum shows most similarities with the Gamma glycine spectrum but with slightly less intensity. This is probably due to the fact that the glycine starting material mainly adopts the gamma polymorph but will have some crystals in other polymorphs (alpha or beta).\r\n\r\nThe observations made from the infrared analysis help prove the observations made from the DSC and HSM data. That is the glycine starting material has adopted the gamma polymorph.\r\n\r\nThe gamma polymer has broader bands than the alpha.\r\n\r\n",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry007",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

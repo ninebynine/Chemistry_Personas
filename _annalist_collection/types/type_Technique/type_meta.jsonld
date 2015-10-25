@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Technique",
+  "rdfs:comment": "Sometimes when the process of an experiment is being described, rather than spell out every step, a portion of the process (or even the whole process) is described using a 'known' technique. For example, the process of performing the analytical technique of thin-layer chromatography is frequently used within some types of experiment to separate a mixture of materials into component parts to identify the materials. The information gathered from such an analysis can inform the process in the current and future experiments. The process is well known and understood, and is used frequently, and therefore repeating the steps would be wasted effort. In other cases the process may be following a more complex process from the literature where the internal steps or materials may not be specifically defined - but the more generic purpose and more theoretical explanation of the procedure can be understood. For example, for the technique \"Suzuki reaction\" an understanding of it's uses (to synthesize poly-olefins, styrenes, and substituted biphenyls) and the background theory and changes at an atomic level (l is a coupling reaction using  a boronic acid with a halide catalyzed by a palladium(0) complex)  do not provide enough context on the specific materials and steps used by the researcher to enable the process to be repeated by another researcher, but they do enable some context to be derived.\r\n\r\nTreating the 'Processes' from the example risk assessment forms as techniques. There may be some differences in the meaning of the terms, but these will be discussed elsewhere.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Technique",
+  "annal:type_list": "_list/type_Technique",
+  "annal:id": "type_Technique",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/type_Technique"
+}

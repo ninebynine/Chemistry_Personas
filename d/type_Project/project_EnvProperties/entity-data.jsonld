@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Properties of Environmental Materials",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Project",
+  "annal:id": "project_EnvProperties",
+  "@id": "./",
+  "@type": [
+    "chemPers:Project",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

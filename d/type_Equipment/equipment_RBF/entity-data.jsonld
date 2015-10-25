@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Round Bottomed Flask",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Equipment",
+  "annal:id": "equipment_RBF",
+  "@id": "./",
+  "@type": [
+    "chemPers:Equipment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

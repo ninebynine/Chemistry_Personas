@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Table",
+  "rdfs:comment": "Tables are frequently used to organise and record information about materials, instrument settings and results. The structure is likely to vary researcher to researcher and process to process, but can be reused, for example, for repeating experiments, by teams working on similar experiments, and to adhere to specific regulations and guidelines.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Table",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_TabularData",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

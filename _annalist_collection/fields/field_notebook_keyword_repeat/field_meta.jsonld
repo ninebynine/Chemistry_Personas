@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Repeat field 'Keyword'",
+  "rdfs:comment": "Repeat field 'Keyword'",
+  "annal:group_ref": "_group/field_notebook_keyword_repeat",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Repeat field Keyword)",
+  "annal:property_uri": "chemPers:NotebookKeyword_repeat",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "Remove Keyword",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "Add Keyword",
+  "annal:field_value_type": "annal:Field_group",
+  "annal:field_value_mode": "Value_direct",
+  "annal:field_render_type": "RepeatGroupRow",
+  "annal:id": "field_notebook_keyword_repeat",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

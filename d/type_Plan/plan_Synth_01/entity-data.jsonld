@@ -1,0 +1,65 @@
+{
+  "rdfs:label": "MNR41-1",
+  "rdfs:comment": "Synthesis of MNR40-1 - reaction time 38 hours\r\n",
+  "chemPers:FieldProcedure": "Add acetyl chloride and lutidine to a solution of KAB23 in dry acetonitrile under argon. \r\nAdd Yb(OTf)3 and stir at ambient temperature (~15 \u00b0C) for 38 hours.\r\nFilter to remove the molecular sieves and washed with EtOAc (5 mL). \r\nWash the filtrate with saturated sodium bicarbonate solution (10 mL). \r\nExtract the aqueous layer with ethyl acetate (3 \u00d7 15 mL). \r\nCombine the organic fractions and dry over MgSO4.\r\nFilter and concentrate under reduced pressure to derive the product. ",
+  "chemPers:EquipmentField_repeat": [
+    {
+      "chemPers:EquipmentField": "type_Equipment/equipment_HM"
+    },
+    {
+      "chemPers:EquipmentField": "type_Equipment/equipment_RBF"
+    }
+  ],
+  "annal:type_id": "type_Plan",
+  "chemPers:SupervisorField": "type_Person/Person0004",
+  "chemPers:FieldReactionTime": "38 hours",
+  "chemPers:AuthorField": "type_Person/Person0005",
+  "chemPers:FieldDate": "4/7/12",
+  "chemPers:FieldReactionScheme": {
+    "upload_name": "field_Reaction_Scheme",
+    "resource_name": "field_Reaction_Scheme.dat",
+    "uploaded_size": 16550,
+    "uploaded_file": "MNR41-4 scheme.png",
+    "resource_type": "image/png"
+  },
+  "chemPers:FieldSignedOff": true,
+  "@id": "./",
+  "chemPers:FieldHazardControl": "Fire: CO2\u2010extinguisher; contact with skin/eyes: flush with water",
+  "chemPers:TechniqueField_repeat": [
+    {
+      "chemPers:TechniqueField": "type_Technique/technique_Extraction"
+    },
+    {
+      "chemPers:TechniqueField": "type_Technique/technique_Purification"
+    }
+  ],
+  "chemPers:FieldMinTemp": "",
+  "chemPers:ProjectField": "type_Project/project_DrugDiscovery",
+  "chemPers:FieldMaxTemp": "25\u00b0C",
+  "annal:id": "plan_Synth_01",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "chemPers:MaterialField_repeat": [
+    {
+      "chemPers:MaterialField": "type_Material/00000001"
+    },
+    {
+      "chemPers:MaterialField": "type_Material/00000002"
+    },
+    {
+      "chemPers:MaterialField": "type_Material/00000003"
+    },
+    {
+      "chemPers:MaterialField": "type_Material/00000004"
+    },
+    {
+      "chemPers:MaterialField": "type_Material/00000005"
+    },
+    {
+      "chemPers:MaterialField": "type_Material/00000006"
+    }
+  ]
+}

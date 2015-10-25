@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Purification",
+  "rdfs:comment": "Purification in a chemical context is the physical separation of a chemical substance of interest from foreign or contaminating substances. (https://en.wikipedia.org/wiki/List_of_purification_methods_in_chemistry)",
+  "annal:type_id": "type_Technique",
+  "annal:id": "technique_Purification",
+  "@id": "./",
+  "@type": [
+    "chemPers:Technique",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

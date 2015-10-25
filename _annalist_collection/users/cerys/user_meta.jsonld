@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Cerys Willoughby",
+  "rdfs:comment": "User cerys: permissions for Cerys Willoughby in collection Chemistry_Personas",
+  "annal:user_uri": "mailto:silvericicle@googlemail.com",
+  "annal:type_id": "_user",
+  "annal:user_permissions": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:id": "cerys",
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:type": "annal:User"
+}

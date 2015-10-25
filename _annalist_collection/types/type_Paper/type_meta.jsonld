@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Paper",
+  "rdfs:comment": "Details of an academic paper.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Paper",
+  "annal:type_list": "_list/type_Paper",
+  "annal:id": "type_Paper",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/type_Paper"
+}

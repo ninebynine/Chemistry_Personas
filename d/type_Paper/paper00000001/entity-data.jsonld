@@ -1,0 +1,17 @@
+{
+  "rdfs:label": "Characterization of \u03b1 and \u03b3 polymorphs of glycine",
+  "rdfs:comment": "Characterization of \u03b1 and \u03b3 polymorphs of glycine crystallized from water-ammonia solution\r\n\r\nK. Srinivasan*, K. Renuka Devi andS. Anbuchudar Azhagan\r\nArticle first published online: 24 JAN 2011\r\n\r\nDOI: 10.1002/crat.201000500\r\n\r\nKeywords:\r\namino acids;solubility;induction period;nucleation;crystallization;x-ray diffraction\r\n\r\nAbstract\r\nCrystallization of metastable \u03b1 and stable \u03b3 polymorphs of glycine was carried out from aqueous solution in the presence of ammonia. Pure aqueous solution and solution with lower concentration of ammonia yield \u03b1 nucleation and solution with a critical concentration of ammonia yield \u03b3 nucleation. Variation in the solubility of glycine in double distilled water and pH of the resulting solution due to the ammonia incorporation was studied in a range of temperatures. The induction period for the \u03b1 and \u03b3 nucleation in the solution was determined and its variation due to the ammonia incorporation was also studied. Single crystals of both the polymorphs were grown by slow evaporation method. Effect of ammonia concentration and the resultant pH of the solution on the nucleation, growth and morphology of the grown polymorphs were investigated. The unidirectional growth of the \u03b3 polymorph along the polar axis was revealed. X-ray powder diffraction method was employed to distinguish both the polymorphs structurally. Their thermal stability above room temperature was studied by differential scanning calorimetry which revealed that the as-grown \u03b3 polymorph transforms to \u03b1 at 179.6 \u00b0C while the as-grown \u03b1 retains its phase until melting. The optical transmittance of the grown \u03b3 polymorph was studied in the UV-Vis-Near IR region. The second harmonic generation (SHG) efficiency of the grown \u03b3 polymorph was studied with a Nd:YAG laser source and is about 6.8% higher than that of the inorganic standard KDP.",
+  "annal:type_id": "type_Paper",
+  "chemPers:PaperRef_repeat": [
+    {
+      "chemPers:PaperRef": "http://onlinelibrary.wiley.com/doi/10.1002/crat.201000500/abstract"
+    }
+  ],
+  "annal:id": "paper00000001",
+  "@id": "./",
+  "@type": [
+    "chemPers:Paper",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

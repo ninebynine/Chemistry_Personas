@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Equipment used",
+  "rdfs:comment": "",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "",
+  "annal:property_uri": "chemPers:EquipmentField",
+  "annal:field_ref_type": "_type/type_Equipment",
+  "annal:field_entity_type": "",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_placement": "",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "chemPers:Equipment",
+  "annal:field_value_mode": "Enum_value_mode/Value_entity",
+  "annal:field_render_type": "Enum_render_type/Enum_optional",
+  "annal:field_ref_field": "",
+  "annal:id": "field_Equipment",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

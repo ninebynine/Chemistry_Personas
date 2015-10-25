@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "DSC 1",
+  "rdfs:comment": "If we use the overlay DSC for the alpha and gamma polymorphs, we can see some clear differences in the temperatures at which processes occur. For the gamma polymorph, there is an initial small trough at around 180 degrees celcius and a much larger trough at around 250 degrees Celcius. The troughs tell us the temperatures at which energy is being absorbed. The small trough at 180 is important as it tells us the gamma polymorph is changing to another polymorph. This is validated by the literature search. For the alpha polymorph, we see no troughs until around 250 degrees celcius where we see a large trough that peaks at around 260 degrees celcius.\r\n\r\nThe energy absorbed by the polymorph can be quantitatively calculated using the integral of the peaks. From this we can compare the amount of energy absorbed by each polymorph.\r\nGamma Glycine Integral peaks\r\n175.35-179.72 degrees- integral= -39.63 mJ\r\n237.12-248.95 degrees-integral= -1777.08 mJ\r\n\r\nAlpha Glycine Integral Peaks\r\n249.22- 254.06 degres- integral= -3502.19 mJ\r\n\r\nComparison:\r\nSo comparing the integral peaks for the alpha and gamma polymorphs of glycine, we can see at a very similar temperature range, the alpha polymorph almost absorbs twice as much heat as the glycine polymorph.\r\n\r\nThe data extracted from the DSC graph can be compared to our HSM videos collected. For the Glycine in water crystals, there was initial twitching at around 180 degrees which can be associated with the change in polymorph. There is also a further melting just before 250 degrees. For the glycine crystals in NaOH however, we see no movement until around 250 degrees where we begin to see some melting. However, because the temperature range is set to a maximum to 250, we cannot visualise the entire melting process.\r\n\r\nOverall, we can use this information along with our X-ray powder diffraction patterns to successfully assign polymorphs to the crystals we have made in the two weeks. The original glycine starting material adopts the gamma polymorph. The glycine in NaOH crystals also adopt the gamma polymorph whilst the glycine in water crytals adopt the alpha polymorph.",
+  "annal:type_id": "type_Experiment",
+  "annal:id": "experiment_adCry006",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

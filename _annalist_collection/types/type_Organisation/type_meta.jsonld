@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Organisation",
+  "rdfs:comment": "People belongs to organisations. Projects have relationships with organisations and research takes place within the locations of these organisations. Organisations can be useful for understanding provenance and relationships between people and projects.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Organisation",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Organisation",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/view_Organisation"
+}

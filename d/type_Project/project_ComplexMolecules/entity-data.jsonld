@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Synthesis of Complex Molecules",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Project",
+  "annal:id": "project_ComplexMolecules",
+  "@id": "./",
+  "@type": [
+    "chemPers:Project",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

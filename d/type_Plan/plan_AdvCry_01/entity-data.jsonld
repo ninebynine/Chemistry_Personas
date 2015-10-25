@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Recrystallisation Experiment Plan",
+  "rdfs:comment": "1.      Dissolve glycine (~1.25g - 1.35g) in water (5ml) using heat to aid the process. Ensure the temperature is maintained at an elevated temperature (~45-55\u00b0C) for 15 minutes and a completely clear solution results.\r\nAfter this time remove from the heat and leave to cool for (approximately) 5-10 minutes ensuring that no solid crashes out of solution on cooling (approximate solubility is 2.5g/10ml at 25\u00b0C).\r\nCrystallisation success and timescale are dependent upon the crystallisation vessel used - surface area/material/ventilation all affect the process.  There are petri dishes, vials and lids/parafilm available to you for the crystallisation and it is up to you how you the way you crystallise your sample.  It is suggested that you split your solution to increase the chances of inducing crystallisation and to also allow comparisons of crystallisation methods.   \r\n \r\n2.      Repeat the process above, however, first generate a strongly alkaline pH (pH 12-14) solution using sodium hydroxide (~0.07-0.1g/5ml).  Test the pH using pH paper then use this solution in place of the water in the method above.\r\n \r\nEnsure you clearly label your samples and then leave to allow crystals to form with no disturbances.  The process of forming crystals can take any duration of time depending upon the sample being crystallised.  From water (method 1), the crystals should start to form in several hours, while the alkaline solution (method 2) can take up to a week to produce crystals.  The longer the samples are left, the larger the crystals that will be produced.\r\n \r\nIt is your own responsibility to dispose of all samples once finished with at the end of the practical work when all analysis has been carried out (and to wash up/clean all glassware and experimental equipment when done). Take note of the safety and COSHH form completed.\r\n \r\nDocumenting the experiment\u2028You should write the method of what YOU did (including precise masses/volumes/times/temperatures etc.  This will be done on paper and then scanned in and uploaded to LabTrove to document the method carried out.\r\n \r\nNote any observations about the solids/solutions/crystals forming (time/size/colour/vessel etc) and any differences depending upon the vessel used for crystallisation.  Ensure to note the time taken for crystals to form and compare that for the two polymorphs.  Suggest plausible reasons to support any observations.\r\n",
+  "annal:id": "plan_AdvCry_01",
+  "annal:type_id": "type_Plan",
+  "chemPers:FieldMinTemp": "",
+  "chemPers:AuthorField": "type_Person/Person0008",
+  "chemPers:FieldMaxTemp": "55\u00b0C",
+  "chemPers:ProjectField": "type_Project/project_AdvCrystallography",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

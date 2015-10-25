@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Central Environmental Services",
+  "rdfs:comment": "",
+  "annal:type_id": "type_Organisation",
+  "annal:id": "org_CentralEnvironmentalServices",
+  "@id": "./",
+  "@type": [
+    "chemPers:Organisation",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

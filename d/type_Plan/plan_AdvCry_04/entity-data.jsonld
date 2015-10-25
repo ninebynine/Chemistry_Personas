@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "X-Ray Powder Diffraction Analysing the pattern",
+  "rdfs:comment": "The software will save three files for each pattern; a .raw file, a .ras file and an .ASC file. \r\nTo open and view these there are various programs available:\r\n1)     Crystaldiffract (opens the .ras file) available on all university computers (Your School Software -> Chemistry -> CrystalMaker -> CrystalDiffract)\r\n2)     JPOWDER, a free download available from http://www.jpowder.org/\r\n(opens the .ras file and also .xye files)\r\n3)     Excel (if you have exported the file as an XY file)\r\n \r\n \r\nYou will collect three powder patterns, one for each polymorph and one of the starting material.  You should look at each pattern separately and also overlay appropriate patterns to allow comparisons and differences to be noted.  \u2028Your observations as you are viewing and analysing the patterns should be noted, detailing the pattern you are looking at and whether you are looking at more than one or making comparisons to another.  Include an overall summary of the powder patterns and what they tell you about the individual polymorphs and starting material.  \r\n",
+  "annal:type_id": "type_Plan",
+  "chemPers:AuthorField": "type_Person/Person0008",
+  "annal:id": "plan_AdvCry_04",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

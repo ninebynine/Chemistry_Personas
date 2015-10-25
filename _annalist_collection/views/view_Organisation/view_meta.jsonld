@@ -1,0 +1,30 @@
+{
+  "annal:view_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "_field/Entity_id"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Entity_label"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/Entity_comment"
+    }
+  ],
+  "rdfs:label": "Organisation view",
+  "rdfs:comment": "",
+  "annal:open_view": true,
+  "annal:type_id": "_view",
+  "annal:record_type": "chemPers:OrganisationView",
+  "annal:id": "view_Organisation",
+  "@id": "./",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:type": "annal:View"
+}

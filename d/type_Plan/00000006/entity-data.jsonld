@@ -1,0 +1,30 @@
+{
+  "rdfs:label": "",
+  "rdfs:comment": "",
+  "chemPers:FieldProcedure": "",
+  "chemPers:EquipmentField_repeat": [
+    {
+      "chemPers:EquipmentField": null
+    }
+  ],
+  "annal:type_id": "type_Plan",
+  "chemPers:SupervisorField": "",
+  "chemPers:FieldReactionTime": "",
+  "chemPers:AuthorField": "",
+  "chemPers:FieldDate": "",
+  "chemPers:FieldReactionScheme": "",
+  "chemPers:FieldSignedOff": false,
+  "@id": "./",
+  "chemPers:FieldHazardControl": "",
+  "chemPers:TechniqueField_repeat": [],
+  "chemPers:FieldMinTemp": "",
+  "chemPers:ProjectField": "",
+  "chemPers:FieldMaxTemp": "",
+  "annal:id": "00000006",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData",
+  "chemPers:MaterialField_repeat": []
+}

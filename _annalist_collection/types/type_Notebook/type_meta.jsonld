@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Notebook",
+  "rdfs:comment": "A notebook is a container where the research information is stored. A notebook may contain a variety of information related to the research, including links to external sources. Although a physical notebook is typically used and accessed by an individual, a virtual notebook may have many authors and be accessed by many people.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Notebook",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Notebook",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/view_Notebook"
+}

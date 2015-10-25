@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Recrystallisation Experiment 1",
+  "rdfs:comment": "Procedure - Recrystallisation Experiment\r\n1. Glycine in water\r\nGlycine (1.27 g) was dissolved in water (5 ml) and stirred for 15 minutes whilst maintaining the temperature between 45-55\u00b0C. A colourless solution was produced and this was left to cool for 10 minutes. The cool solution was then divided between two crystallisation vessels, a petri dish with a lid and a vial covered by parafilm with holes. These samples crystallised within 45 minutes. The solution in the petri dish contained more crystals than the vial.\r\n\r\n2. Glycine in NaOH solution (pH 12-14)\r\nNaOH (0.18 g) pellets were dissolved in water (10 ml) giving a pH of 12-14 (4.5 x 10-7 mol/dm3 concentration) of the NaOH solution. Glycine (1.27 g) was dissolved in 5 ml of the prepared NaOH solution and stirred for 15 minutes maintaining a temperature between 45-55\u00b0C. A colourless solution was produced and this was left to cool for 10 minutes. The cool solution was then divided between two crystallisation vessels, a petri dish with a lid and a vial covered by parafilm with holes. The samples were left to crystallise over the week.",
+  "annal:id": "experiment_adCry001",
+  "chemPers:ProjectRef": "type_Project/project_AdvCrystallography",
+  "annal:type_id": "type_Experiment",
+  "chemPers:ExperimentAuthor": "type_Person/Person0009",
+  "chemPers:PlanRef": "type_Plan/plan_AdvCry_01",
+  "chemPers:ProjectField": "type_Project/project_AdvCrystallography",
+  "@id": "./",
+  "@type": [
+    "chemPers:Experiment",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

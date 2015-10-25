@@ -1,0 +1,16 @@
+{
+  "@id": "./",
+  "rdfs:label": "Acetonitrile",
+  "rdfs:comment": "",
+  "chemPers:MaterialHazards": "Flammable, Harmful",
+  "annal:type_id": "type_Material",
+  "chemPers:MaterialType": "Reagent",
+  "chemPers:RiskRating": "HU, SI",
+  "annal:id": "00000003",
+  "chemPers:RiskClass": "2",
+  "@type": [
+    "chemPers:Material",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

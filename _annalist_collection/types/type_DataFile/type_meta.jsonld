@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Data File",
+  "rdfs:comment": "Instruments that are used in experiments will typically produce data files in a digital format. The majority of these are likely to be the results of an analysis, but they may also include the details of settings, trace of an experimental process, or environmental information. Some data files may be considered as 'raw' files whilst others are considered to be 'processed' or even intermediate between the two. Some data files will have their own descriptive (and perhaps active) metadata associated with them, for example EXIF data in photos or manufacturer information and timestamps from instruments. These files may be associated with a plan (e.g. as part of the rationale of the experiment, information about the materials used, or an analysis result from another researcher), as part of the experiment, or as part of an analysis.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:DataFile",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_DataFile",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

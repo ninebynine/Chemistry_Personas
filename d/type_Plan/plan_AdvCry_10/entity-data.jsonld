@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "DSC",
+  "rdfs:comment": "Attached are DSC curves of the \u03b1 and \u03b3 polymorphs of glycine.  These are plotted as heat flow in W/g (watts per gram) vs Temperature (\u00b0C).  Endothermic and exothermic processes will appear as troughs and peaks depending whether heat is taken in or given out in the process.  This is shown by an increase or decrease in the heat flow hence giving the trough/peak observed.\r\n \r\nThese DSC curves were recorded using a 10\u00b0C/min heating rate (identical to the HSM heating rate used).  Look at these curves and interpret them for each polymoprh.  Overlays are also included to allow you to compare the two polymorphs.\r\n \r\nNote any observations you make including temperatures for any points you make ensuring you clearly sepcify which polymorph you are describing.  Compare the two polymorphs and note any differences/similarities between them.  Try to tie in this data with the HSM observations made.\r\n\r\nAs DSC curves show the relationship between heat flow through a system and temperature of system, peaks and troughs in the curve reflect a decrease or increase in the heat flow and therefore can be taken to be exo or endothermic processes. In these spectra, only troughs appear suggesting endothermic processes where the structure takes heat in. In the alpha-glycine there is only one trough at 254.06 degrees which is the highest temperature for a trough. This contrasts with gamma glycine which has two troughs, one very small one at 179.72 degrees and the second is of a medium comparitive size at 248.95 degrees. The reason for these differences is as a result of the different crystal structures of the two polymorphs of glycine absorbing heat in different ways from each other. Following PXRD analysis, it can be determined what precisely these structures are and the specific reasons for the DSC differences.\r\n",
+  "annal:type_id": "type_Plan",
+  "chemPers:AuthorField": "type_Person/Person0008",
+  "annal:id": "plan_AdvCry_10",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

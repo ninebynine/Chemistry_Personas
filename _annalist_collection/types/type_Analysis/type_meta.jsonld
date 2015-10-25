@@ -1,0 +1,16 @@
+{
+  "rdfs:label": "Analysis",
+  "rdfs:comment": "An analysis may be considered as a separate process outside of the experiment, especially where the materials or measurements from an experiment are analysed or processed at a later time or in a different location to the original experiment. In some cases samples may be taken from an experiment in progress and analysed to assess the progress of the experiment. These may be included as part of the experiment or treated as a separate process, but their results will inform the process of the original experiment and future experiments.",
+  "annal:field_aliases": [],
+  "annal:type_id": "_type",
+  "annal:supertype_uris": [],
+  "annal:uri": "chemPers:Analysis",
+  "annal:type_list": "_list/Default_list",
+  "annal:id": "type_Analysis",
+  "@id": "./",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_view": "_view/Default_view"
+}

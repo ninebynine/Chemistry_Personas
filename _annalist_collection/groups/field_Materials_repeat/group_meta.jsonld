@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Repeat field 'Materials used in the experiment'",
+  "rdfs:comment": "Repeat field 'Materials used in the experiment'",
+  "annal:id": "field_Materials_repeat",
+  "annal:type_id": "_group",
+  "annal:record_type": "",
+  "annal:uri": "annal:group/_initial_values",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "chemPers:MaterialField",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "_field/field_Materials"
+    }
+  ],
+  "annal:add_field": true,
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

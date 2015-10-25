@@ -1,0 +1,12 @@
+{
+  "rdfs:label": "Extraction",
+  "rdfs:comment": "Extraction in chemistry is a separation process consisting in the separation of a substance from a matrix. It includes Liquid-liquid extraction, and Solid phase extraction. (https://en.wikipedia.org/wiki/Extraction_(chemistry))",
+  "annal:type_id": "type_Technique",
+  "annal:id": "technique_Extraction",
+  "@id": "./",
+  "@type": [
+    "chemPers:Technique",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}

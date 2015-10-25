@@ -1,0 +1,13 @@
+{
+  "rdfs:label": "IR Analysis",
+  "rdfs:comment": "The IR spectra can be found here: IR 2: Data in .csv file format.  These can be opened in excel and plotted as a scatter graph connected with a smooth curve, which can be manipulated a little through the graph formatting and data options to give an IR spectrum like those you are familiar with from teaching labs. \r\nMore than one data set can be added to a chart allowing spectra to be overlaid for analysis purposes.\r\nPreviously, IR has been used as a fingerprint technique to determine the presence (or absence) of specific functional groups through comparisons of the bands present to IR frequency tables.  This is just one use of IR spectra.\r\nOther analysis involves the comparison of multiple spectra to show differences and similarities between patterns of different structures or compounds and attributing these to the different structures. \r\nIn the solid state atoms are able to interact with one another in various ways through intermolecular interactions, such as hydrogen bonds and hence give differing environments for different atoms of the same type.  The environment of atoms will affect the wavelength of the corresponding band and bands can be shifted as a result whilst showing the same fundamental functional group.\r\nIt is important to understand the reasons for the shifts and what is a \u2018real\u2019 shift, opposed to differences which could be due to the machine and data collection process. Overall shape, peak shape and position are all important and should be considered when analysing the various IR spectra.\r\nUse the spectra given and, using excel, compare and contrast the different materials noting key differences in the spectra such as peak shifts, similarities and general observations.  Include suggestions to rationalise your observations and relevant peak wavenumbers where applicable to help support the statements.",
+  "annal:type_id": "type_Plan",
+  "chemPers:AuthorField": "type_Person/Person0008",
+  "annal:id": "plan_AdvCry_05",
+  "@id": "./",
+  "@type": [
+    "chemPers:Plan",
+    "annal:EntityData"
+  ],
+  "annal:type": "annal:EntityData"
+}
